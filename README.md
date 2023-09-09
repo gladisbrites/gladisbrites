@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola, Soy Gladis 👋
 
-<!--
-**gladisbrites/gladisbrites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ <p>
+  Soy desarrolladora backend con JAVA, busco mi primer empleo en este apasionante mundo de la programación.
 
-Here are some ideas to get you started:
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--### Programming Languages 🌐
+ 
+### Tools 🛠️
+
 -->
+
+- 🌱 Continúo profundizando mi aprendizaje en JAVA, sus frameworks y sus librerías.
+- 🔭 Actualmente Aprendiendo React.
+
+
